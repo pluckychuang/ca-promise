@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "test": "promises-aplus-tests ./promise.js"
+    "test": "promises-aplus-tests ./src/promise.js"
   }
 }
