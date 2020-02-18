@@ -36,5 +36,5 @@
 - 需要暴露给测试工具一个对象用于测试
 
 ## 测试结果
-![](https://public-img.51easymaster.com/image/2fddedee84d10c668db4.png)
+![](https://raw.githubusercontent.com/pluckychuang/blog/master/doc/img/promise-test-result.png)
 
